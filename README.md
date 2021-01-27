@@ -5,8 +5,7 @@ Python is a powerful, easy-to-read, high-level programming language. This means 
 
 Below Are the Description of the project.
 
-Atm-simulator system
- Atm-simulator systemm is a banking application developed  by Adewuyi Tomiwa Daniel and Ishola Emmanuel Ayobami to perform different banking services. This Atm Simulator System is written in #Python Programming Language.
+ Atm-simulator system is a banking application developed  by Adewuyi Tomiwa Daniel and Ishola Emmanuel Ayobami to perform different banking services. This Atm Simulator System is written in #Python Programming Language.
 
 Description
 The Atm Simulator System, application has been designed to maintains the information of the accounts. This includes various customer’s information including the information of the ATM cards, their types Credit cards or the Debit Cards and the transactions done by the customers through the Atm-simulator system. It records the transaction done by customer with co-relation of the Banking Services.
